@@ -1,9 +1,7 @@
-import React from 'react'
-
 function Home() {
   return (
     <div>
-      Home
+      <h1 className="text-6xl">Welcome</h1>
     </div>
   )
 }

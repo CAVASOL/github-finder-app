@@ -8,13 +8,10 @@ function About() {
         A React app to search GitHub profiles and see profile details.
       </p>
       <p className='text-lg text-gray-400'>
-        Version <span className='text-white'>1.0.0</span>
+        Version <span className='text-black'>1.0.0</span>
       </p>
       <p className='text-lg text-gray-400'>
-        Layout By:
-        <a className='text-white' href='https://https://github.com/CAVASOL'>
-          Yeon Kim | CAVASOL
-        </a>
+        Layout By <a className='text-black' href='https://https://github.com/CAVASOL'>CAVASOL</a>
       </p>
     </div>
   )

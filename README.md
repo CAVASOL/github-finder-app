@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Github Finder
+
+React app to search GitHub profiles and see profile details
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
